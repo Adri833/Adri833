@@ -2,29 +2,29 @@ name: Generar animación de la serpiente
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Ejecuta diariamente a medianoche
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Se ejecuta a medianoche cada día
+  workflow_dispatch:  # Permite ejecución manual
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout del repositorio
-        uses: actions/checkout@v3
+      - name: 📥 Checkout del repositorio
+        uses: actions/checkout@v4
 
-      - name: Generar la animación de la serpiente
+      - name: 🐍 Generar animación de la serpiente
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Subir artefacto
-        uses: actions/upload-artifact@v3
+      - name: 🚀 Subir la animación
+        uses: actions/upload-artifact@v4
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
 
-      - name: Desplegar en la rama output
+      - name: 🌍 Publicar en la rama output
         uses: peaceiris/actions-gh-pages@v3
         with:
           publish_branch: output
