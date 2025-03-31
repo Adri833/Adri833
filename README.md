@@ -38,3 +38,4 @@ I am a web and mobile developer, passionate about what I do. I am highly focused
 
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adri833&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Snake animation](https://github.com/Adri833/Adri833/blob/output/github-contribution-grid-snake.svg)
