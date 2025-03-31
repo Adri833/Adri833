@@ -12,13 +12,20 @@ jobs:
       - name: 📥 Clonar repositorio
         uses: actions/checkout@v4
 
-      - name: 🐍 Generar animación de la serpiente
+      - name: 🐍 Generar animación de la serpiente (modo claro)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-contribution-grid-snake.svg
-          theme: dark 
-          
+          outputs: dist/github-snake.svg
+          theme: light
+
+      - name: 🌙 Generar animación de la serpiente (modo oscuro)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: dist/github-snake-dark.svg
+          theme: dark
+
       - name: 🚀 Publicar en la rama output
         uses: JamesIves/github-pages-deploy-action@v4
         with:
