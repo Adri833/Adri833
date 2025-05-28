@@ -7,10 +7,11 @@ I am a web and mobile developer, passionate about what I do. I am highly focused
 
 ## 💻 Tech Stack
 ### Languages & Frameworks:
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%230000AA.svg?&style=for-the-badge&logo=jetpack&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?&style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776A3.svg?&style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%239400FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%230000AA.svg?&style=for-the-badge&logo=jitpack&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%23151F38.svg?&style=for-the-badge&logo=flutter&logoColor=%235ec9f7)
+![Java](https://img.shields.io/badge/Java-%235385a3.svg?&style=for-the-badge&logo=coffeescript&logoColor=red)
+![Python](https://img.shields.io/badge/Python-%23f7c839.svg?&style=for-the-badge&logo=python&logoColor=%23316994)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
