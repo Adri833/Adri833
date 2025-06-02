@@ -26,7 +26,7 @@ I am a web and mobile developer, passionate about what I do. I am highly focused
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2300B0B9.svg?&style=for-the-badge&logo=androidstudio&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23E10098.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-%234F6D98.svg?&style=for-the-badge&logo=netbeans&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-%234F6D98.svg?&style=for-the-badge&logo=apachenetbeanside&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-%238B1D8B.svg?&style=for-the-badge&logo=eclipse&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%2343B02A.svg?&style=for-the-badge&logo=pycharm&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
@@ -39,4 +39,5 @@ I am a web and mobile developer, passionate about what I do. I am highly focused
 
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adri833&show_icons=true&count_private=true&hide=prs&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adri833&layout=compact&langs_count=8&theme=radical)
 ![snake gif](https://github.com/Adri833/Adri833/blob/output/snake.svg)
