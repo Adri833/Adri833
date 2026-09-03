@@ -31,7 +31,7 @@ I'm committed to continuous learning and growth in this ever-evolving field. Out
 **Languages & Frameworks**
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,java,python,html,css,js,php,react,angular,mysql" alt="Languages and frameworks"/>
+  <img src="https://skillicons.dev/icons?i=kotlin,angular,flutter,java,python,html,css,js,php,mysql" alt="Languages and frameworks"/>
 </div>
 
 *Kotlin icon also represents Jetpack Compose, my go-to toolkit for native Android UI.*
